@@ -1,0 +1,321 @@
+nav ul {
+  list-style: none;
+  padding:0;
+  margin: 0;
+  font-family: Helvetica;
+}
+nav {
+  background-color: #D44B40;
+  color: #fff;
+}
+nav a {
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+}
+nav li {
+    display: inline-block;
+    padding:0;
+    margin:0;
+    padding:10px 20px;
+}
+head {
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+  display: inline-block;
+}
+.bigwrapper {
+  width: 1440px;
+  height: 1px;
+  padding: 10px;
+  float: left;
+}
+.wrapper {
+  height: 325px;
+  max-width: 100%;
+  background-color: #88170E;
+  color: #fff;
+  position: relative;
+  margin: auto;
+}
+.wrapper h2 {
+  padding: 20px;
+}
+.wrapper p {
+  padding-left: 20px;
+}
+.green {
+  background-color: #1B884A;
+  height: 275px;
+  position: relative;
+  padding: 10px;
+  margin: auto;
+  color: #fff;
+}
+.red {
+  background-color: #88170E;
+  height: 275px;
+  position: relative;
+  padding: 10px;
+  margin: auto;
+  color: #fff;
+}
+.flower {
+  width: 97.2%;
+  height: 19%;
+  position: relative;
+  background-image: url(/Users/blakepertl/Documents/Web_Programming/Flowershop_Project/Photos/Flower_Header.jpg);
+  color: #fff;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+.gift {
+  width: 97.2%;
+  height: 19%;
+  position: relative;
+  background-image: url(/Users/blakepertl/Documents/Web_Programming/Flowershop_Project/Photos/Gifts_Header.jpg);
+  color: #fff;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+.seasonal {
+  width: 97.2%;
+  height: 19%;
+  position: relative;
+  background-image: url(/Users/blakepertl/Documents/Web_Programming/Flowershop_Project/Photos/Seasonal_Header.jpg);
+  color: #fff;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+.smallbox {
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+}
+.homebox {
+  height: 280px;
+  width: 400px;
+}
+.ad {
+  max-height: 300px;
+  max-width: 720px;
+}
+.biggreen {
+  height: 600px;
+  position: relative;
+  background-color: #1B884A;
+  padding-left: 40px;
+  padding-top: 15px;
+  color: #fff;
+}
+.item {
+  height: 500px;
+  width: 500px;
+}
+.preview {
+  height: 25px;
+  weight: 25px;
+}
+.floatbox {
+  float: left;
+}
+h1 {
+  font-family: Helvetica;
+}
+h2 {
+  font-family: Helvetica;
+}
+h3 {
+  font-family: Helvetica;
+}
+h4 {
+  font-family: Helvetica;
+}
+.hero {
+  width: 100%;
+  height: 325px;
+  position: relative;
+  margin: auto;
+  background-color: #1B884A;
+}
+.hero h2 {
+  color: #fff;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.hero p {
+  color: #fff;
+  padding-left: 20px;
+  max-width: 20%;
+}
+.wrapgreen {
+  width: 100%;
+  height: 275px;
+  background-color: #1B884A;
+  position: relative;
+  margin: auto;
+}
+.wrapred {
+  width: 100%;
+  height: 275px;
+  background-color: #88170E;
+  position: relative;
+  margin: auto;
+}
+.practice p {
+  width: 35%;
+}
+.floatright {
+  float: right;
+}
+.footer {
+  height: 170px;
+  width: 100%;
+  background-color: #ecf0f1;
+  position: relative;
+  margin: auto;
+}
+.footer h4 {
+  padding-left: 40px;
+}
+.footer ul li {
+  list-style: none;
+}
+.footer a {
+  color: #363636;
+}
+.foot {
+  color: #363636;
+  padding: 10px;
+  width: 12%;
+}
+.fill {
+  width: 28%;
+}
+.icon {
+  max-width: 40px;
+}
+.left {
+  width: 20%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.center {
+  width: 40%;
+  height: 100%;
+  padding-top: 10px;
+  padding-left: 90px;
+}
+.right {
+  width: 25%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.practice {
+  width: 15%;
+  color: #fff;
+}
+.practice2 {
+  width: 8%;
+  color: #fff;
+  padding: 10px;
+}
+.maroon {
+  width: 50%;
+  color: #fff;
+}
+.first {
+  width: 100%;
+  height: 325px;
+  background-color: #1B884A;
+  position: relative;
+  margin: auto;
+}
+.second {
+  width: 100%;
+  height: 325px;
+  background-color: #88170E;
+  position: relative;
+  margin: auto;
+}
+.fshop {
+  width: 30%;
+  height: 100%;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.ftext {
+  width: 18%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.gshop {
+  width: 30%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.gtext {
+  width: 18%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.right a {
+  color: #fff;
+  list-style: none;
+}
+.violet {
+  width: 100%;
+  height: 600px;
+  background-color: #1B884A;
+  position: relative;
+  margin: auto;
+  padding: 10px;
+}
+.violetleft {
+  width: 60%;
+  height: 100%;
+  text-align: center;
+  padding-left: 20px;
+}
+.violetright {
+  width: 30%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.about {
+  width: 100%;
+  height: 520px;
+  background-color: #1B884A;
+  position: relative;
+  margin: auto;
+  padding: 10px;
+}
+.aboutleft {
+  width: 30%;
+  height: 100%;
+  color: #fff;
+  padding-top: 10px;
+  padding-left: 80px;
+}
+.aboutright {
+  width: 60%;
+  height: 100%;
+  text-align: center;
+  padding-left: 20px;
+}
+.about a {
+  color: #fff;
+}
